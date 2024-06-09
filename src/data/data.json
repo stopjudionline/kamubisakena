@@ -1,0 +1,150 @@
+{
+  "Header": {
+    "title": "Ketika Masa Depan Jadi Taruhan",
+    "paragraph": "Gerakan pengingat bahwa semua berpotensi terjerat judi online mulai dari keluarga, teman, bahkan kamu bisa kena!"
+  },
+  "About": {
+    "paragraph": "#KamuBisaKena merupakan gerakan dengan tujuan untuk meningkatkan literasi keuangan digital dan menggalakan #StopJudiOnline yang digagas oleh Tim Caraka.",
+    "Why": [
+      "Membantu meningkatkan kesadaran bahaya judi online",
+      "Edukasi dini agar terhindar dari pinjol ilegal"
+    ],
+    "Why2": [
+      "Merefleksikan SDGs 4 tentang kualitas pendidikan",
+      "Mengakselerasi angka kualitas literasi digital keuangan"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "#KamuBisaKena in Action",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-exclamation",
+      "name": "Meningkatkan Pemahaman Bahaya Judol dan Pinjol Ilegal",
+      "text": "Akar dari masalah yang berusaha dipecahkan adalah dengan awareness kita bersama akan bahaya judi online dan pinjaman online ilegal."
+    },
+    {
+      "icon": "fa fa-eye",
+      "name": "Mengedukasi generasi muda untuk melek finansial",
+      "text": "Agar generasi muda tidak mudah terbuai iming-iming mendapatkan pemasukan secara instan lewat judol dan pinjol."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "name": "Menjadi media visual untuk aspirasi #StopJudiOnline",
+      "text": "Gerakan ini dapat menjadi perpanjangan dari karya poster untuk menyuarakan urgensi judol yang marak."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "Fenomena yang semakin parah memang butuh solusi yang hadir secara fundamental seperti edukasi lewat gerakan sejenis ini",
+      "name": "Dr. Made Dwi Setyadhi Mustika, S.E., M. Si (Dosen Ekonomi Pembangunan Universitas Udayana)"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "Semoga poster dan gerakannya bisa jadi akselerator agar orang di sekitar kita sadar bahwa judol itu sudah diatur algoritmanya jadi jangan sampai terjebak",
+      "name": "Gusti Made Arya Sasmita, S.T., M.T. (Dosen Teknologi Informasi Universitas Udayana)"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "Bagus nih, kalo menurutku bisa jadi bahan edukasi juga buat sesama influencer biar nggak gampang tergoda inquiries dari judol",
+      "name": "Lady Meralia (Influencer)"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Hans Budi Liemantara",
+      "job": "Ketua Tim"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "I Gede Candra Darma Saputra",
+      "job": "Anggota"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "I Gusti Agung Ngurah Gede Satria Utama",
+      "job": "Anggota"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "I Putu Martin Winata",
+      "job": "Anggota"
+    }
+  ],
+  "Contact": {
+    "address": "Jl. Bukit Lestari No. 5B",
+    "phone": "+6285142911747",
+    "email": "kamubisakena@gmail.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-money",
+      "title": "327 triliun rupiah",
+      "text": "Jumlah transaksi judi online di Indonesia sepanjang tahun 2023."
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Maraknya Judol di Indonesia",
+      "text": "Dengan transaksi yang sekian banyak, malah menjadi shadow economy"
+    },
+    {
+      "icon": "fa fa-group",
+      "title": "79% yang Terjebak Judol",
+      "text": "merupakan golongan berpenghasilan rendah, termasuk pelajar"
+    },
+    {
+      "icon": "fa fa-book",
+      "title": "Kontribusi SDGs ke-4",
+      "text": "Untuk mewujudkan poin ke-4 dalam 17 SDGs yaitu kualitas pendidikan"
+    }
+  ]
+}
