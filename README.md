@@ -6,7 +6,7 @@
 
 **
 
-## Description
+## Deskripsi
 Gerakan ini merupakan pengingat bahwa semua berpotensi terjerat judi online mulai dari keluarga, teman, bahkan kamu bisa kena! <a href="https://www.instagram.com/kamubisakena">kamu bisa kena </a>
 
 ## Tujuan gerakan nyata #KamuBisaKena!
@@ -18,11 +18,9 @@ Agar generasi muda tidak mudah terbuai iming-iming mendapatkan pemasukan secara 
 ### 3. Menjadi media visual untuk aspirasi #StopJudiOnline
 Gerakan ini dapat menjadi perpanjangan dari karya poster untuk menyuarakan urgensi judol yang marak.
 
-## Like this project?
-<a href="linktr.ee/KamuBisaKena">Come along our campaign</a>
+## Tertarik dengan kampanye kami?
+Yuk ikuti perjalanan kami dalam meningkatkan literasi keuangan digital dengan gerakan<a href="linktr.ee/KamuBisaKena">#KamuBisaKena</a>
 
 ## Credits
-##### Inspired by
-<a href="https://github.com/issaafalkattan/react-landing-page-template-2021">Issaaf kattan </a>
 
 ##### © 2024, Tim Caraka.
