@@ -19,7 +19,7 @@ Agar generasi muda tidak mudah terbuai iming-iming mendapatkan pemasukan secara 
 Gerakan ini dapat menjadi perpanjangan dari karya poster untuk menyuarakan urgensi judol yang marak.
 
 ## Tertarik dengan kampanye kami?
-Yuk ikuti perjalanan kami dalam meningkatkan literasi keuangan digital dengan gerakan<a href="linktr.ee/KamuBisaKena">#KamuBisaKena</a>
+Yuk ikuti perjalanan kami dalam meningkatkan literasi keuangan digital dengan gerakan<a href="linktr.ee/KamuBisaKena"> #KamuBisaKena</a>
 
 ## Credits
 
