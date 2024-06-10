@@ -1,34 +1,28 @@
-# React JS Landing Page Template
+# Stop Judi Online karena #KamuBisaKena
 
 **
 
-# 🛎️🛎️ Good news! New & improved [V2](https://github.com/issaafalkattan/react-landing-page-template-2021) is out  
+# 🛎️ Tonton video dibalik pembuatan poster [Ketika Masa Depan Jadi Taruhan](https://www.youtube.com/watch?v=LMsKE7u2CYc&t=25s) yuk! 
 
 **
-
-
-### <a href="https://react-landing-page-template-93ne.vercel.app/">LIVE DEMO</a> 
 
 ## Description
-This is a ReactJS based landing page template, fit for a startup company/service with a one page view. The design is inspired by a template from <a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
-All 'visual' data can be easily modified by changing the data.json file.
+Gerakan ini merupakan pengingat bahwa semua berpotensi terjerat judi online mulai dari keluarga, teman, bahkan kamu bisa kena! <a href="https://www.instagram.com/kamubisakena">kamu bisa kena </a>
 
-## Make it Yours!
-### 1. Preps
-You will need to have <a href="https://nodejs.org/">Node JS</a> installed on your pc. 
+## Tujuan gerakan nyata #KamuBisaKena!
+### 1. Meningkatkan Pemahaman Bahaya Judol dan Pinjol Ilegal
+Akar dari masalah yang berusaha dipecahkan adalah dengan awareness kita bersama akan bahaya judi online dan pinjaman online ilegal.
 
-### 2. Clone Files
-After cloning the files, you will have to run ```yarn``` followed by ```yarn start``` in the CLI
-### 3. Add your own data 
-Change the data in the ```data.json``` file as well as add any images to ```public/img/```
-You can also change styles by modifying the ```public/css``` files.
-If you need the contact form to work, you also need to create an EmailJS account, and modify the ```src/components/contact.jsx``` file to replace your own service ID, template ID and Public Key
+### 2. Mengedukasi generasi muda untuk melek finansial
+Agar generasi muda tidak mudah terbuai iming-iming mendapatkan pemasukan secara instan lewat judol dan pinjol.
+### 3. Menjadi media visual untuk aspirasi #StopJudiOnline
+Gerakan ini dapat menjadi perpanjangan dari karya poster untuk menyuarakan urgensi judol yang marak.
 
 ## Like this project?
-<a href="https://www.buymeacoffee.com/issaaf">Buy my a coffee ☕️</a>
+<a href="linktr.ee/KamuBisaKena">Come along our campaign</a>
 
 ## Credits
-##### Free CSS 
-<a href="https://www.free-css.com/assets/files/free-css-templates/preview/page234/interact/">Free-CSS.com </a>
+##### Inspired by
+<a href="https://github.com/issaafalkattan/react-landing-page-template-2021">Issaaf kattan </a>
 
-##### Issaaf kattan
+##### © 2024, Tim Caraka.
